@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Blogg
-permalink: /blogg/
+permalink: /_posts/
 ---
 
 [Fråga 1](/blogg/question1)
