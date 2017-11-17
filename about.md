@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mitt namn är Karin, jag bor i Kalmar och pluggar på Linnéuniversitetet. Detta är min leksajt där jag lägger upp grejor som krävs i en kurs jag har. Min huvudsakliga syssla, utöver att ladda upp kursrelaterade saker på internet och att skriva kod, är väl att bråka med nassar på internet, äta chips och vara jävligt förbannad.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Jag stör mig på fler saker än jag faktiskt genuint tycker om, så vi kan göra en lista på vad jag faktiskt gillar:
+* Alkoholhaltiga drycker (utom burbon och whisky, det smakar fan som thinner luktar).
+* Chips.
+* Katter.
+* Trallpunk.
+* Broccoli.
+* Sticka.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Fun fact: Mitt sömnrekord är 20 h.
