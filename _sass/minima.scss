@@ -10,9 +10,9 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       rgb(255, 0, 119) !default;
-$background-color: #ebdfe9 !default;
-$brand-color:      #33186a !default;
+$text-color:       rgb(245, 191, 216) !default;
+$background-color: #000000 !default;
+$brand-color:      #c47abe !default;
 
 $grey-color:       #434242 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -45,5 +45,6 @@ $on-laptop:        800px !default;
 @import
   "mylittlepony/_basics.scss",
   "mylittlepony/_layout.scss",
-  "mylittlepony/_syntax-highlighting.scss"
+  "mylittlepony/_syntax-highlighting.scss",
+  "mylittlepony/pictures.scss"
 ;
