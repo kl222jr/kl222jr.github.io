@@ -16,7 +16,7 @@
 title: Karin Lundqvist
 email: kl222jr(at)student.lnu.se
 description: Detta är vad jag gör när du gör vettiga saker.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kl222jr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: analsveda
 github_username:  kl222jr
